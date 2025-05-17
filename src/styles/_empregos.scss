@@ -1,0 +1,15 @@
+.empregos {
+  .graficos {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5%;
+  }
+  .image-container {
+    img {
+      max-width: 100%;
+      border-radius: 5%;
+      border: 3px solid #143dc5;
+    }
+  }
+}
