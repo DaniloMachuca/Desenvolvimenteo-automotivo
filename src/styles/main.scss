@@ -2,6 +2,7 @@
 @use "image-text-section";
 @use "montadoras";
 @use "empregos";
+@use "impactos";
 
 * {
   margin: 0;
@@ -57,4 +58,8 @@
 .background-color {
   background-color: #809bee;
   color: #fff;
+}
+
+span {
+  font-weight: bold;
 }
