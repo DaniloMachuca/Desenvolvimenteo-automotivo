@@ -13,3 +13,13 @@
     }
   }
 }
+
+@media (max-width: 768px) {
+  .empregos {
+    .graficos {
+      grid-template-columns: 1fr;
+    }
+
+    padding-bottom: 32px;
+  }
+}

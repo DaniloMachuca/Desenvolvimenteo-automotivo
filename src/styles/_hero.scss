@@ -35,3 +35,14 @@
     color: #fff;
   }
 }
+
+@media (max-width: 768px) {
+  .hero {
+    .title {
+      font-size: 24px;
+    }
+    .text {
+      font-size: 16px;
+    }
+  }
+}

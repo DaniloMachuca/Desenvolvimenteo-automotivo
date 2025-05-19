@@ -16,3 +16,12 @@
     }
   }
 }
+
+@media (max-width: 768px) {
+  .image-text-section {
+    .container {
+      grid-template-columns: 1fr;
+      padding-bottom: 32px;
+    }
+  }
+}
